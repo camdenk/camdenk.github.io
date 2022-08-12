@@ -1,17 +1,5 @@
 ---
 title: "Resume"
-image: profile.jpg
-about:
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/k_camden
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/camden-kay/
-    - icon: github
-      text: Github
-      href: https://github.com/camdenk
 ---
 
 # Coding Tools
