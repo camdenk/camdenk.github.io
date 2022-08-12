@@ -4,46 +4,52 @@ title: "Resume"
 
 # Coding Tools
 
-## Everyday Use:
+### Everyday Use:
 
-### R
+#### R
 
--   ggplot
+-   `ggplot`
 
--   tidyverse
+-   `tidyverse`
 
--   xaringan
+-   `xaringan`
 
--   xgboost
+-   `xgboost`
 
 -   Package development
 
-### Python
+#### Python
 
--   Pandas
+-   `Pandas`
 
--   Numpy
+-   `Numpy`
 
--   Matplotlib
+-   `Matplotlib`
 
--   Seaborn
+-   `Seaborn`
 
-### Git
+#### Git
 
-## Familiar With:
+### Familiar With:
 
-### SQL
+#### SQL
 
-### CSS
+#### CSS
 
-### HTML
+#### HTML
 
 # Work Experiences
 
-## Tread Athletics
+### Tread Athletics
 
-### Data Analyst, Fall 2020 - Present
+#### Data Analyst, Fall 2020 - Present
 
-## R&D Baseball Academy
+### JMU Baseball
 
-### Data Intern, Summer 2020
+#### Director of Analytics, Fall 2020 - Winter 2021
+
+#### Student Manager, Spring 2019 - Fall 2020
+
+### R&D Baseball Academy
+
+#### Data Intern, Summer 2020
