@@ -6,6 +6,7 @@ website:
   navbar:
     right:
       - about.qmd
+      - resume.qmd
       - text: mlbplotR
         href: https://camdenk.github.io/mlbplotR
       - icon: github
@@ -14,7 +15,9 @@ website:
         href: https://twitter.com/k_camden
 format:
   html:
-    theme: flatly
+    theme:
+      light: flatly
+      dark: darkly
     css: styles.css
     
 execute:

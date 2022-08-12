@@ -1,0 +1,61 @@
+---
+title: "Resume"
+image: profile.jpg
+about:
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/k_camden
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/camden-kay/
+    - icon: github
+      text: Github
+      href: https://github.com/camdenk
+---
+
+# Coding Tools
+
+## Everyday Use:
+
+### R
+
+-   ggplot
+
+-   tidyverse
+
+-   xaringan
+
+-   xgboost
+
+-   Package development
+
+### Python
+
+-   Pandas
+
+-   Numpy
+
+-   Matplotlib
+
+-   Seaborn
+
+### Git
+
+## Familiar With:
+
+### SQL
+
+### CSS
+
+### HTML
+
+# Work Experiences
+
+## Tread Athletics
+
+### Data Analyst, Fall 2020 - Present
+
+## R&D Baseball Academy
+
+### Data Intern, Summer 2020
