@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Kay'd Up"
+  navbar:
+    right:
+      - about.qmd
+      - text: mlbplotR
+        href: https://camdenk.github.io/mlbplotR
+      - icon: github
+        href: https://github.com/camdenk
+      - icon: twitter
+        href: https://twitter.com/k_camden
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    
+execute:
+  freeze: auto
+
+editor: visual
+
