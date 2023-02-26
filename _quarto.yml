@@ -5,6 +5,8 @@ website:
   title: "Camden Kay"
   navbar:
     right:
+      - text: Home
+        href: https://camdenk.github.io
       - about.qmd
       - resume.qmd
       - text: mlbplotR
