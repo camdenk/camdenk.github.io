@@ -4,34 +4,34 @@
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this blog"
+    "text": "I am a self-taught data scientist from Las Vegas, NV. I received my BS studying Physics from James Madison University in 2021. My passion for sports led me to learn how to code while at school and eventually make mlbplotR and contribute to baseballr after I graduated. R is my preferred language for analysis, but starting using Python first so I have lots of experience with both.\nI have previously worked as an analytics fellow for the Baltimore Orioles, a data analyst for Tread Athletics, and as the Director of Analytics for the JMU Baseball Team."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Blog Roll",
     "section": "",
-    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 11, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 8, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 11, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 8, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Resume",
+    "title": "Résumé",
     "section": "",
-    "text": "Work Experiences\n\nTread Athletics\n\nData Analyst, Fall 2020 - Present\n\n\n\nJMU Baseball\n\nDirector of Analytics, Fall 2020 - Winter 2021\n\n\nStudent Manager, Spring 2019 - Fall 2020\n\n\n\nR&D Baseball Academy\n\nData Intern, Summer 2020"
+    "text": "Coding Tools\n\nR\n\nggplot2\ntidyverse\nxaringan\ntidymodels\nxgboost\nPackage development\n\n\n\nPython\n\nPandas\nNumpy\nMatplotlib\nSeaborn\n\n\n\nGit\n\n\nSQL\n\n\nExperience with CSS and HTML to improve visualizations in R\n\n\n\nWork Experiences\n\nBaltimore Orioles\n\nAnalytics Fellow, Fall 2022 - Spring 2023\nI worked in the baseball operations department to improve our in-game strategic decisions.\n\n\n\nTread Athletics\n\nData Analyst, Fall 2020 - Fall 2022\nI helped build out Tread’s data department to create systems to automate reporting for in-house athletes and 100+ remote professional clients. I also created internal metrics to grade out pitching performance using MLB TrackMan and Hawk-Eye data.\n\n\n\nJMU Baseball\n\nDirector of Analytics, Fall 2020 - Winter 2021\n\n\nStudent Manager, Spring 2019 - Fall 2020\nI created reports for the coaching staff to improve in-game decision making. I also incorporated Rapsodo and Blast Motion metrics to create a dashboard for players and coaches to track development.\n\n\n\nR&D Baseball Academy\n\nData Intern, Summer 2020\nI used Python to create visuals and models to analyze trainees using data from TrackMan, Blast Motion, and Uplift. I also automated daily tasks for throwing trainers to allow them to spend more time with athletes."
   }
 ]
