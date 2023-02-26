@@ -1,55 +1,55 @@
 ---
-title: "Resume"
+title: "Résumé"
 ---
 
 # Coding Tools
 
-### Everyday Use:
-
 #### R
 
--   `ggplot`
-
+-   `ggplot2`
 -   `tidyverse`
-
 -   `xaringan`
-
+-   `tidymodels`
 -   `xgboost`
-
 -   Package development
 
 #### Python
 
 -   `Pandas`
-
 -   `Numpy`
-
 -   `Matplotlib`
-
 -   `Seaborn`
 
 #### Git
 
-### Familiar With:
-
 #### SQL
 
-#### CSS
-
-#### HTML
+#### Experience with CSS and HTML to improve visualizations in R
 
 # Work Experiences
 
+### Baltimore Orioles
+
+##### Analytics Fellow, Fall 2022 - Spring 2023
+
+I worked in the baseball operations department to improve our in-game strategic decisions.
+
 ### Tread Athletics
 
-#### Data Analyst, Fall 2020 - Present
+##### Data Analyst, Fall 2020 - Fall 2022
+
+I helped build out Tread's data department to create systems to automate reporting for in-house athletes and 100+ remote professional clients. I also created internal metrics to grade out pitching performance using MLB TrackMan and Hawk-Eye data.
 
 ### JMU Baseball
 
-#### Director of Analytics, Fall 2020 - Winter 2021
+##### Director of Analytics, Fall 2020 - Winter 2021
 
-#### Student Manager, Spring 2019 - Fall 2020
+##### Student Manager, Spring 2019 - Fall 2020
+
+I created reports for the coaching staff to improve in-game decision making. I also incorporated Rapsodo and Blast Motion metrics to create a dashboard for players and coaches to track development.
 
 ### R&D Baseball Academy
 
-#### Data Intern, Summer 2020
+##### Data Intern, Summer 2020
+
+I used Python to create visuals and models to analyze trainees using data from TrackMan, Blast Motion, and Uplift. I also automated daily tasks for throwing trainers to allow them to spend more time with athletes.
