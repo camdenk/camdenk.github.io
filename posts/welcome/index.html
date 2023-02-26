@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Tristan O’Malley">
-<meta name="dcterms.date" content="2022-08-08">
+<meta name="author" content="Camden Kay">
+<meta name="dcterms.date" content="2023-02-26">
 
-<title>Camden Kay - Welcome To My Blog</title>
+<title>Camden Kay - Making mlbplotR</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -84,6 +84,10 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
+    <a class="nav-link" href="https://camdenk.github.io">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../about.html">
  <span class="menu-text">About Me</span></a>
   </li>  
@@ -118,9 +122,10 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Welcome To My Blog</h1>
+      <h1 class="title">Making mlbplotR</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">news</div>
+                <div class="quarto-category">R</div>
+                <div class="quarto-category">Package Development</div>
               </div>
                   </div>
   </div>
@@ -131,14 +136,14 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Author</div>
       <div class="quarto-title-meta-contents">
-               <p>Tristan O’Malley </p>
+               <p>Camden Kay </p>
             </div>
     </div>
       
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">August 8, 2022</p>
+        <p class="date">February 26, 2023</p>
       </div>
     </div>
     
@@ -156,11 +161,31 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+<p>Around a year ago, I had my pushed my first commit to GitHub with the start of <a href="camdenk.github.io/mlbplotR">mlbplotR</a>. The package was honestly born out envy. I had been seeing so many amazing looking graphs on Twitter surrounding football analysis from the likes of <a href="https://twitter.com/tejfbanalytics">Tej Seth</a>, <a href="https://twitter.com/benbbaldwin">Ben Baldwin</a>, <a href="https://twitter.com/arjunmenon100">Arjun Menon</a>, and many others utilizing NFL logos. The logos looked sharp and the ability to add transparency or turn them black and white to help the readability was an awesome touch.</p>
+<p>With baseball season coming up, I wanted to create a tool to allow others to use MLB logos in their analysis. Making my own work look better was a pretty nice secondary bonus.</p>
+<p>At this point, I had using R for just over a year. I was still very much a newbie to the language in my mind and had no idea how to go about making a package. Everything I’d ever done was likely built upon the tidyverse. I had <em>just</em> started making custom functions to cut down on repeat code.</p>
+<p>Also around this time, I wanted to challenge myself to put more of my analysis on Twitter to work on some of the skills that make up a good data scientist. I wanted to become better at using my visuals to get my message across and convey that message in 140 characters or less (less of an issue now that Twitter has expanded character limits).</p>
+<p>So, creating mlbplotR was a great way to have my cake and eat it too.</p>
+<p>This <a href="https://twitter.com/k_camden/status/1491166689849147392?s=20">tweet</a> was the first step in the process. I had taken a look at the source code for <a href="https://nflplotr.nflverse.com/index.html">nflplotR</a> and adapted some of it to work locally on my machine with MLB logos. I stripped out a lot of the functionality that makes that package great, but just getting logos on a plot was a big step for me.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="original_image.jpeg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">The Image That Started It All For Me</figcaption><p></p>
+</figure>
+</div>
+<p>I eventually DMed <a href="https://twitter.com/mrcaseb">@mrcaseb</a> on Twitter to make sure I wasn’t stepping on any toes by making the MLB version of nflplotR and he graciously said to go for it.</p>
+<p>Over the next few nights, I tore through the <a href="https://r-pkgs.org/">R Packages</a> book by <a href="http://hadley.nz/">Hadley Wickham</a> and <a href="http://jennybryan.org/">Jenny Bryan</a>. That book and nflplotR gave me the foundation to go and create the baseline for mlbplotR.</p>
+<section id="personal-development" class="level3">
+<h3 class="anchored" data-anchor-id="personal-development">Personal Development</h3>
+<p>Development for mlbplotR continued into the summer as I added more functionality for different use cases. This new experience with package development made an impact on my actual work as well. I was able to create a package at <a href="treadathletics.com">Tread Athletics</a> to improve common workflows among analysts as well as creating a personal package which I use every day.</p>
+<p>Package development has pushed my skill in R to another level. I’m able to do things now in my analysis that I certainly wasn’t able to do before. Package development gave me a greater understanding of how a lot of underlying code works and forces me to reframe how I attack problems. I can’t recommend enough creating your own package to speed up those common pesky problems when it comes to your own analysis.</p>
+<blockquote class="blockquote">
+<p>“It doesn’t matter if your first version isn’t perfect as long as the next version is better.”</p>
+<p>- Hadley Wickham and Jenny Bryan</p>
+</blockquote>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
