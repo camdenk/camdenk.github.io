@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
+    "objectID": "posts/making_mlbplotR/index.html",
+    "href": "posts/making_mlbplotR/index.html",
     "title": "Making mlbplotR",
     "section": "",
     "text": "Around a year ago, I had my pushed my first commit to GitHub with the start of mlbplotR. The package was honestly born out envy. I had been seeing so many amazing looking graphs on Twitter surrounding football analysis from the likes of Tej Seth, Ben Baldwin, Arjun Menon, and many others utilizing NFL logos. The logos looked sharp and the ability to add transparency or turn them black and white to help the readability was an awesome touch.\nWith baseball season coming up, I wanted to create a tool to allow others to use MLB logos in their analysis. Making my own work look better was a pretty nice secondary bonus.\nAt this point, I had using R for just over a year. I was still very much a newbie to the language in my mind and had no idea how to go about making a package. Everything I’d ever done was likely built upon the tidyverse. I had just started making custom functions to cut down on repeat code.\nAlso around this time, I wanted to challenge myself to put more of my analysis on Twitter to work on some of the skills that make up a good data scientist. I wanted to become better at using my visuals to get my message across and convey that message in 140 characters or less (less of an issue now that Twitter has expanded character limits).\nSo, creating mlbplotR was a great way to have my cake and eat it too.\nThis tweet was the first step in the process. I had taken a look at the source code for nflplotR and adapted some of it to work locally on my machine with MLB logos. I stripped out a lot of the functionality that makes that package great, but just getting logos on a plot was a big step for me.\n\n\n\nThe Image That Started It All For Me\n\n\nI eventually DMed Sebastian Carl on Twitter to make sure I wasn’t stepping on any toes by making the MLB version of nflplotR and he graciously said to go for it.\nOver the next few nights, I tore through the R Packages book by Hadley Wickham and Jenny Bryan. That book and nflplotR gave me the foundation to go and create the baseline for mlbplotR.\n\nPersonal Development\nDevelopment for mlbplotR continued into the summer as I added more functionality for different use cases. This new experience with package development made an impact on my actual work as well. I was able to create a package at Tread Athletics to improve common workflows among analysts as well as creating a personal package which I use every day.\nPackage development has pushed my skill in R to another level. I’m able to do things now in my analysis that I certainly wasn’t able to do before. Package development gave me a greater understanding of how a lot of underlying code works and forces me to reframe how I attack problems. I can’t recommend enough creating your own package to speed up those common pesky problems when it comes to your own analysis.\n\n“It doesn’t matter if your first version isn’t perfect as long as the next version is better.”\n- Hadley Wickham and Jenny Bryan"
+  },
+  {
+    "objectID": "posts/favorite_dataviz/index.html",
+    "href": "posts/favorite_dataviz/index.html",
+    "title": "Favorite Data Viz Collection",
+    "section": "",
+    "text": "This is going to be a collection of my favorite data visualizations that I’ve made. Most (if not all) have likely already been posted on my Twitter\n\n\n\n# of MLB Players By State For Each AL Team In 2022\n\n\n\n\n\n# of MLB Players By State For Each NL Team In 2022\n\n\n\n\n\nTop wStuff+ Grades By Team Through August 29th\n\n\n\n\n\nCWS Run Scoring And Run Prevention Rankings\n\n\n\n\n\nK% vs. Win% In College Baseball\n\n\n\n\n\nK% vs. Win% In MLB\n\n\n\n\n\nBreakdown Of The Top Starters Moved At 2022 MLB Trade Deadline\n\n\n\n\n\nAnalyzing How Teams Allocate Early Picks In MLB Draft\n\n\n\n\n\nRookie wStuff+ Grades Through July 29th, 2022\n\n\n\n\n\nMLB Team Run Differential Distributions\n\n\n\n\n\nSprint Speeds By MLB Team\n\n\n\n\n\nShift In WS Odds Through September 8th, 2022\n\n\n\n\n\nHow Top Heavy Are MLB Payrolls?"
   },
   {
     "objectID": "about.html",
@@ -18,7 +25,7 @@
     "href": "index.html",
     "title": "Blog Roll",
     "section": "",
-    "text": "Making mlbplotR\n\n\n\n\n\n\n\nR\n\n\nPackage Development\n\n\n\n\n\n\n\n\n\n\n\nFeb 26, 2023\n\n\nCamden Kay\n\n\n\n\n\n\nNo matching items"
+    "text": "Making mlbplotR\n\n\n\n\n\n\n\nR\n\n\nPackage Development\n\n\n\n\n\n\n\n\n\n\n\nFeb 26, 2023\n\n\nCamden Kay\n\n\n\n\n\n\n  \n\n\n\n\nFavorite Data Viz Collection\n\n\n\n\n\n\n\nR\n\n\nData Viz\n\n\n\n\n\n\n\n\n\n\n\nFeb 26, 2023\n\n\nCamden Kay\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resume.html",
