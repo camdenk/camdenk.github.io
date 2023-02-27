@@ -20,7 +20,7 @@ This [tweet](https://twitter.com/k_camden/status/1491166689849147392?s=20) was t
 
 ![The Image That Started It All For Me](original_image.jpeg)
 
-I eventually DMed [\@mrcaseb](https://twitter.com/mrcaseb) on Twitter to make sure I wasn't stepping on any toes by making the MLB version of nflplotR and he graciously said to go for it.
+I eventually DMed [Sebastian Carl](https://twitter.com/mrcaseb) on Twitter to make sure I wasn't stepping on any toes by making the MLB version of nflplotR and he graciously said to go for it.
 
 Over the next few nights, I tore through the [R Packages](https://r-pkgs.org/) book by [Hadley Wickham](http://hadley.nz/) and [Jenny Bryan](http://jennybryan.org/). That book and nflplotR gave me the foundation to go and create the baseline for mlbplotR.
 
