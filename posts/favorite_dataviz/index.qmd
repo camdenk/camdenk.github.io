@@ -3,7 +3,7 @@ title: "Favorite Data Viz Collection"
 author: "Camden Kay"
 date: "2023-02-26"
 categories: [R, Data Viz]
-image: "mlbplotR_logo.png"
+image: "run_diff_by_team.jpeg"
 ---
 
 This is going to be a collection of my favorite data visualizations that I've made. Most (if not all) have likely already been posted on my [Twitter](https://twitter.com/k_camden)
