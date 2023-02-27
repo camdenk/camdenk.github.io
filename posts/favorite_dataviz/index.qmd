@@ -1,0 +1,35 @@
+---
+title: "Favorite Data Viz Collection"
+author: "Camden Kay"
+date: "2023-02-26"
+categories: [R, Data Viz]
+image: "mlbplotR_logo.png"
+---
+
+This is going to be a collection of my favorite data visualizations that I've made. Most (if not all) have likely already been posted on my [Twitter](https://twitter.com/k_camden)
+
+![\# of MLB Players By State For Each AL Team In 2022](AL%20States.png)
+
+![\# of MLB Players By State For Each NL Team In 2022](NL%20States.png)
+
+![Top wStuff+ Grades By Team Through August 29th](top_stuff_grades_by_team.jpeg)
+
+![CWS Run Scoring And Run Prevention Rankings](college_baseball_analysis.jpeg)
+
+![K% vs. Win% In College Baseball](college_k_per.jpeg)
+
+![K% vs. Win% In MLB](mlb_k_per.jpeg)
+
+![Breakdown Of The Top Starters Moved At 2022 MLB Trade Deadline](deadline_breakdown.jpeg)
+
+![Analyzing How Teams Allocate Early Picks In MLB Draft](draft_analysis.jpeg)
+
+![Rookie wStuff+ Grades Through July 29th, 2022](rookie_stuff_grades.jpeg)
+
+![MLB Team Run Differential Distributions](run_diff_by_team.jpeg)
+
+![Sprint Speeds By MLB Team](sprint_speed_by_team.jpeg)
+
+![Shift In WS Odds Through September 8th, 2022](shifting_ws_odds.jpeg)
+
+![How Top Heavy Are MLB Payrolls?](top_payrolls.png)
