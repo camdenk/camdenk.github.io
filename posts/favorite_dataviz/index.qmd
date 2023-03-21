@@ -14,6 +14,8 @@ This is going to be a collection of my favorite data visualizations that I've ma
 
 ![Top wStuff+ Grades By Team Through August 29th](top_stuff_grades_by_team.jpeg)
 
+![2022 Regular Season Series Win Percentage](2022 Series Win Percentage.png)
+
 ![CWS Run Scoring And Run Prevention Rankings](college_baseball_analysis.jpeg)
 
 ![K% vs. Win% In College Baseball](college_k_per.jpeg)
